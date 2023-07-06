@@ -1,0 +1,26 @@
+h3{
+    font-style: oblique;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    color: #0f0f0f;
+}
+.label{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: black;
+    font-size: larger;
+}  
+
+.btn{
+    background-color: blue;
+    color: white;
+}
+
+.btn:hover{
+font-size: larger;
+font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+color: white;
+}
+
+.card-body{
+    background-color: rgb(217, 189, 207);
+    /* background-color: white; */
+}
